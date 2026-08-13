@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá! 👋 Sou a Grazielly Oliveira Marques
 
-<!--
-**graomarques/graomarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UX/UI Designer** e **Desenvolvedora Front-end**, com conhecimento em Back-end.
 
-Here are some ideas to get you started:
+Apaixonada por transformar problemas reais em produtos organizados, funcionais 
+e com boa experiência de uso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 **Front-end:** HTML, CSS e JavaScript — cuido da interface do início ao fim
+- ⚙️ **Back-end:** PHP, Node.js e MySQL — sempre buscando entender a lógica antes de escrever código
+
+🚧 **Estou em fase de construção de portfólio:** os projetos abaixo são estudos 
+e provas de conceito, criados para praticar design de interface, arquitetura 
+e integração front ↔ back, enquanto avanço rumo aos primeiros projetos 
+profissionais como desenvolvedora full stack.
